@@ -1,0 +1,12 @@
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/bin/Debug/net5.0/ACM.deps.json
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/bin/Debug/net5.0/ACM.dll
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/bin/Debug/net5.0/ref/ACM.dll
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/bin/Debug/net5.0/ACM.pdb
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/obj/Debug/net5.0/ACM.csproj.AssemblyReference.cache
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/obj/Debug/net5.0/ACM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/obj/Debug/net5.0/ACM.AssemblyInfoInputs.cache
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/obj/Debug/net5.0/ACM.AssemblyInfo.cs
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/obj/Debug/net5.0/ACM.csproj.CoreCompileInputs.cache
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/obj/Debug/net5.0/ACM.dll
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/obj/Debug/net5.0/ref/ACM.dll
+/Users/hoseaochieng/learning/csharp/acm/src/ACM/obj/Debug/net5.0/ACM.pdb
