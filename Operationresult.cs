@@ -24,6 +24,13 @@ namespace ACM{
             T value = defaultValue;
             return value;
         }
+
+        // generic constraints
+        public T RetreaveValueContrained<T>(string sql, T defaultValue) where T:class, new()
+        {
+            T value = new T();
+            return value;
+        }
     }
 }
 
