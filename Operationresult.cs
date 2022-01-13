@@ -1,14 +1,28 @@
 using System;
 
 namespace ACM{
-    public class OperationResult<T>
+    public class OperationResult<TResult, TMessage>
     {
-        public T Result { get; set; }
-        public string Message { get; set; }
-        public OperationResult(T result, string message)
+        public TResult Result { get; set; }
+        public TMessage Message { get; set; }
+        public OperationResult(TResult result, TMessage message)
         {
             this.Result = result;
             this.Message = message;
+        }
+    }
+
+    public class Operation
+    {
+        public void performOperation()
+        {
+            var operationResult = new OperationResult<bool, string>(true, "No new message");
+        }
+
+        public T RetreaveValue<T>(string sql, T defaultValue)
+        {
+            T value = defaultValue;
+            return value;
         }
     }
 }
